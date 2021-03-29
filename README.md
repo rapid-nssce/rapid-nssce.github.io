@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# RAPID '21
 
-You can use the [editor on GitHub](https://github.com/mark-IV-II/rapid_conference/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## RAPID 2021 - Recent Advances in Power electronics and Industrial Drives
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+RAPID '21 aims at bringing academicians, professional engineers, research organisations and research scholars on a common platform to share new ideas, experiences and knowledge in emerging areas of power electronics and industrial drives. The conference will ignite the minds of the participants and delegates for undertaking collaborative research for updating technical know-how to stay in tune with the recent advances. The technical programme consists of peer-review paper presentations, key note lectures, presentation by industry professionals and panel discussion.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mark-IV-II/rapid_conference/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Organised by Department of Electrical and Electronics Engineering, NSS College of Engineering Palakkad.
