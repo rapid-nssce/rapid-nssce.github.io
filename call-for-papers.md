@@ -1,7 +1,7 @@
 ---
 title: Call for Papers
 layout: default
-permalink: /call-for-papers
+permalink: /call-for-paper
 ---
 
 
@@ -14,6 +14,40 @@ We invite quality research papers not published elsewhere. Papers will be listed
 - Acceptance notification by: 10th May 2021.
 - Submission of camera ready copy of accepted manuscripts: 18th May 2021.
 - Conference date: 28th and 29th May 2021 (Online).
+
+## Tracks
+
+#### Track-1 Power Electronics for Integration of Renewable Energy Systems 
+- Wind, Solar PV systems and Fuel Cells
+- Bidirectional Power Converters
+- Distributed Energy Systems
+- Grid Tied Systems
+- Renewable energy including modelling, operation, control and integration
+- Energy management systems
+- Microgrids and smart grids
+
+#### Track - 2: Industrial Drives and Control
+- AC, DC, BLDC Drives, Reluctance Machine Drives
+- Advanced Control of Drives
+- Design, Optimization and Condition Monitoring of Electrical Machines
+- Actuators, Sensor Integration
+- Design Automation for Power Converters
+
+#### Track - 3: Power Converter Topologies, Components and Devices
+- Machine Learning Applications in Power Converters
+- Advanced topologies
+- Efficiency and reliability
+- Modelling, control and stability
+- Gate drivers, EMI, EMC and protection
+- Power Devices, Components and Magnetic Materials
+- Fault tolerant converters
+
+#### Track - 4: Power Electronics for Hybrid and Electric Vehicles
+- Electric vehicles’ V2G and G2V 
+- Small, medium and long-range WPT
+- Modelling and design of WPT coils
+- Vehicle Power Electronic Circuits and Systems
+- Vehicle Charging Station design
 
 Registration amount will notified once the paper is accepted.
 
