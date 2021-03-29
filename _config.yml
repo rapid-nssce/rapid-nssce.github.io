@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: RAPID '21
+description: Recent Advances in Power electronics and Industrial Drives
+github:
+  is_project_page: false
+baseurl: /rapid_conference
+url: https://mark-iv-ii.github.io/
+ 
