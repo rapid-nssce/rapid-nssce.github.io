@@ -13,7 +13,7 @@ Organised by Department of Electrical and Electronics Engineering, NSS College o
 
 ## Call for papers
 
-We invite quality research papers not published elsewhere. Papers will be listed for presentation based on the number of papers received in each track. An expert panel from each field will evaluate the papers. Authors are requested to complete registration and upload abstract through the [link below](https://forms.gle/SG2WgFsVyH9woUqD7).
+We invite quality research papers not published elsewhere. Papers will be listed for presentation based on the number of papers received in each track. An expert panel from each field will evaluate the papers. Authors are requested to complete registration and upload abstract through the [link](https://forms.gle/SG2WgFsVyH9woUqD7) below.
 
 ### Tracks
 
@@ -59,8 +59,7 @@ We invite quality research papers not published elsewhere. Papers will be listed
 
 Registration amount will notified once the paper is accepted.
 
-
-<button name="button" onclick="https://forms.gle/SG2WgFsVyH9woUqD7">Register here</button>
+[Click here](https://forms.gle/SG2WgFsVyH9woUqD7) to Register
 
 ## Correspondence address
 Dr Leesha Paul, Professor, 
