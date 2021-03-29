@@ -2,6 +2,7 @@
 title: RAPID '21
 description: Recent Advances in Power electronics and Industrial Drives
 layout: default
+logo: logo@2x - Copy.png
 ---
 
 ## RAPID 2021 - Recent Advances in Power electronics and Industrial Drives
