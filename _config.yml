@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: RAPID '21
-logo: /assets/logo.png
+logo: /assets/img/logo.png
 description: Recent Advances in Power electronics and Industrial Drives
 github:
   is_project_page: false
