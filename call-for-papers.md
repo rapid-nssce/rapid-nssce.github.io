@@ -9,8 +9,8 @@ We invite quality research papers not published elsewhere. Papers will be listed
 
 ## Key Dates
 
-- Abstract Submission opens : 29th March 2021.
-- Abstract Submission closes: 20th April 2021.
+- Paper Submission opens : 29th March 2021.
+- Paper Submission closes: 25th April 2021.
 - Acceptance notification by: 10th May 2021.
 - Submission of camera ready copy of accepted manuscripts: 18th May 2021.
 - Conference date: 28th and 29th May 2021 (Online).
