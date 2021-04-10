@@ -61,4 +61,4 @@ Selected papers will be published in SCOPUS INDEXED journal and all accepted pap
 
 [Click here](https://forms.gle/SG2WgFsVyH9woUqD7) to register for the conference
 
-In case of any doubts or queries, please feel free to contact us [here](/rapid_conference/contact-us)
+In case of any doubts or queries, please feel free to contact us [here](/contact-us)
