@@ -49,7 +49,14 @@ We invite quality research papers not published elsewhere. Papers will be listed
 - Vehicle Power Electronic Circuits and Systems
 - Vehicle Charging Station design
 
-Registration amount will notified once the paper is accepted.
+##Registration fees
+
+![](/assests/regfees.png)
+
+Exact Registration fees will notified once the paper is accepted.
+No extra fee for publication.
+
+Selected papers will be published in SCOPUS INDEXED journal and all accepted papers will be published as conference proceedings in International Advanced Research Journal of Science, Engineering and Technology.
 
 
 [Click here](https://forms.gle/SG2WgFsVyH9woUqD7) to register for the conference
