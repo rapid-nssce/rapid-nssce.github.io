@@ -1,8 +1,7 @@
-theme: jekyll-theme-slate
+theme: minima
 title: RAPID '21
-# logo: /assets/img/logo.png
 description: Recent Advances in Power electronics and Industrial Drives
 github:
   is_project_page: false
-baseurl: /rapid_conference
-url: https://mark-iv-ii.github.io/
+# baseurl: /rapid_conference
+url: https://rapid-nssce.github.io/
