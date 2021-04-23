@@ -5,7 +5,10 @@ layout: default
 
 ---
 ![](/assests/img/top_logo.png)
-# RAPID 2021
+
+
+
+<h1 align=center>RAPID 2021</h1>
 
 ## Recent Advances in Power electronics and Industrial Drives
 
