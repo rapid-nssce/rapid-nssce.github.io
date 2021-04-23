@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 <h1>
-<!--   <div style="float:center;", align=center>RAPID 2021</div>
-    <div style="float:right;" align=right><img src="/assests/img/rapidlogo4a.png"  alt="RAPID '21 Logo" width=50 height=50/></div>
-    <div style="clear: left;"/?> -->
    <div id="photo" align=center>
     <img style="vertical-align:middle" src="/assests/img/rapidlogo4a.png" alt="RAPID '21 Logo" width=50 height=50>
     <span style="vertical-align:middle">RAPID 2021 </span>
@@ -31,3 +28,5 @@ The Department of Electrical & Electronics Engineering was started in the year 1
 NSS College of Engineering, Palakkad is one of the most reputed premier engineering educational institutions in Kerala, affiliated to APJ Abdul Kalam Technological University. National Board of Accreditation (NBA) has accredited five B.Tech Programmes of the college. It was established in 1960 by Nair Service Society under the leadership of Late Bharatha Kesari Mannathu Padmanabhan, during the second five-year plan with the assistance of the central and state government. Under the grant in aid scheme. The college has an enviable heritage and legacy of grooming brilliant engineering professionals who later made their mark in industrial and other sectors of the country and abroad. At present, the institution offers B.Tech degree courses in six branches and M.Tech degree courses in communication Engineering, Power Electronics, Computer Science and Engineering, Structural Engineering and Computer Integrated Manufacturing.
 
 [Click here](http://www.nssce.ac.in/) to know more about the college.
+
+![NSSCE](https://user-images.githubusercontent.com/82264644/115835788-4fdbed80-a434-11eb-8140-6f682992748b.jpg)
