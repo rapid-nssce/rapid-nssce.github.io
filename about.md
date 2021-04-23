@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 <h1>
-  <div style="float:center;", align=center>RAPID 2021</div>
+<!--   <div style="float:center;", align=center>RAPID 2021</div>
     <div style="float:right;" align=right><img src="/assests/img/rapidlogo4a.png"  alt="RAPID '21 Logo" width=50 height=50/></div>
-    <div style="clear: left;"/?>
-<!--    <div id="photo" align=center>
+    <div style="clear: left;"/?> -->
+   <div id="photo" align=center>
     <img style="vertical-align:middle" src="/assests/img/rapidlogo4a.png" alt="RAPID '21 Logo" width=50 height=50>
-    <span style="vertical-align:middle">RAPID 2021 </span> -->
+    <span style="vertical-align:middle">RAPID 2021 </span>
 </div>
 </h1>
 
