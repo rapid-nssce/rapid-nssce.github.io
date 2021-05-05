@@ -18,4 +18,8 @@ Organised by Department of Electrical and Electronics Engineering, NSS College o
 
 ## Call for papers
 
+### Registration is still open!!
+
 We invite quality research papers not published elsewhere. Papers will be listed for presentation based on the number of papers received in each track. An expert panel from each field will evaluate the papers. Authors are requested to complete registration and upload paper through the [link](/call-for-papers) here.
+
+
