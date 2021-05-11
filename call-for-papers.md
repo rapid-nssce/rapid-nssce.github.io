@@ -11,9 +11,11 @@ We invite quality research papers not published elsewhere. Papers will be listed
 
 - Paper Submission opens : 29th March 2021.
 - Paper Submission closes: ~~25th April 2021~~. 9th May 2021.
-- Acceptance notification by: 10th May 2021.
+- Acceptance notification by: ~~10th May 2021~~. 15th May 2021.*
 - Submission of camera ready copy of accepted manuscripts: 18th May 2021.
 - Conference date: 28th and 29th May 2021 (Online).
+
+*Due to certain technical difficulties from our side, the acceptance information of the manuscripts would take a few more days than expected. The information will be sent as soon as possible. We appreciate your patience and understanding on this matter.
 
 ## Tracks
 
@@ -61,6 +63,7 @@ Selected papers will be published in SCOPUS INDEXED journal and all accepted pap
 Template -> [IARJSET-RAPID '21 Paper Format.docx](https://github.com/rapid-nssce/rapid-nssce.github.io/files/6350349/IARJSET-RAPID.21.Paper.Format.docx)
 
 
-[Click here](https://forms.gle/SG2WgFsVyH9woUqD7) to register for the conference
+<!--[Click here](https://forms.gle/SG2WgFsVyH9woUqD7) to register for the conference.-->
+Thank You for your interest in RAPID 21. Unfortunately we have closed the registration for this year. Stay tuned for next year
 
 In case of any doubts or queries, please feel free to contact us [here](/contact-us)
