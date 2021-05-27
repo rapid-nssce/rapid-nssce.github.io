@@ -11,11 +11,11 @@ We invite quality research papers not published elsewhere. Papers will be listed
 
 - Paper Submission opens : 29th March 2021.
 - Paper Submission closes: ~~25th April 2021~~. 9th May 2021.
-- Acceptance notification by: ~~10th May 2021~~. 15th May 2021.*
+- Acceptance notification by: ~~10th May 2021~~. 15th May 2021.
 - Submission of camera ready copy of accepted manuscripts: 18th May 2021.
-- Conference date: 28th and 29th May 2021 (Online).
+- Conference date: ~~28th and 29th May 2021~~
 
-*Due to certain technical difficulties from our side, the acceptance information of the manuscripts would take a few more days than expected. The information will be sent as soon as possible. We appreciate your patience and understanding on this matter.
+![](https://img.shields.io/static/v1?label=&message=New&color=informational&style=flat) Due to critical circumstances from the pandemic lockdown, the conference has been postponed to next month. We apologise for the inconvenience caused. A new schedule will be announced soon.
 
 ## Tracks
 
