@@ -6,7 +6,7 @@ layout: default
 ---
 ![](/assests/img/top_logo.png)
 
-![](https://img.shields.io/static/v1?label=&message=New&color=informational&style=flat) Due to critical circumstances from the pandemic lockdown, the conference has been postponed to next month. We apologise for the inconvenience caused. A new schedule will be announced soon.
+![](https://img.shields.io/static/v1?label=&message=New&color=informational&style=flat) Updated conference dates are announced. 10th and 11th June 2021 are the new dates
 
 <h1 align=center>RAPID 2021</h1>
 
