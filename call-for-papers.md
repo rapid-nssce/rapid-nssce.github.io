@@ -59,7 +59,7 @@ No extra fee for publication.
 
 Selected papers will be published in SCOPUS INDEXED journal and all accepted papers will be published as conference proceedings in International Advanced Research Journal of Science, Engineering and Technology.
 
-Template -> [IARJSET-RAPID '21 Paper Format.docx](https://github.com/rapid-nssce/rapid-nssce.github.io/files/6350349/IARJSET-RAPID.21.Paper.Format.docx)
+[Template - IARJSET-RAPID '21 Paper Format.docx](https://github.com/rapid-nssce/rapid-nssce.github.io/files/6350349/IARJSET-RAPID.21.Paper.Format.docx)
 
 
 <!--[Click here](https://forms.gle/SG2WgFsVyH9woUqD7) to register for the conference.-->
