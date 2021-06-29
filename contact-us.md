@@ -5,8 +5,10 @@ permalink: /contact-us
 ---
 
 ## Correspondence address
-Dr Priya G Das, Head of Department, 
-Department of Electrical and Electronics Engineering,
+Dr Priya G Das,
+
+Head of Department,\
+Department of Electrical and Electronics Engineering,\
 NSS College of Engineering, Palakkad.
 
 Email: rapid.nssce@gmail.com
