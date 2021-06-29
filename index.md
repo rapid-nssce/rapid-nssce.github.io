@@ -6,7 +6,7 @@ layout: default
 ---
 ![](/assests/img/top_logo.png)
 
-![](https://img.shields.io/static/v1?label=&message=New&color=informational&style=flat) Updated conference dates are announced. 10th and 11th June 2021 are the new dates
+![](https://img.shields.io/static/v1?label=&message=New&color=informational&style=flat) The conference proceedings have been published. Check out [RAPID '21 - IARJSET](https://iarjset.com/rapid-21/)
 
 <h1 align=center>RAPID 2021</h1>
 
