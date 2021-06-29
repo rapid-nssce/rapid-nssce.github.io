@@ -11,7 +11,7 @@ Head of Department,\
 Department of Electrical and Electronics Engineering,\
 NSS College of Engineering, Palakkad.
 
-Email: rapid.nssce@gmail.com
+Email: [rapid.nssce@gmail.com](mailto:rapid.nssce@gmail.com)
 
 [Visit Department of EEE website](http://nssce.ac.in/dep_eee/index.html)
 
